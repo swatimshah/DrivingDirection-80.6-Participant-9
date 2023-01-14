@@ -29,7 +29,7 @@ from keras.layers import TimeDistributed
 seed(1)
 set_seed(1)
 
-index1 = 551
+index1 = 550
 
 # load the data from the csv file
 orig_epochs = loadtxt('loaded_complete_data_9_2_sec.csv', delimiter=',')
